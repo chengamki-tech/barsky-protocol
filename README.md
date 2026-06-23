@@ -13,7 +13,7 @@
 ### 通过 Claude Code 安装（推荐）
 
 ```bash
-claude install-skill https://github.com/amki-dev/barsky-protocol
+claude install-skill https://github.com/chengamki-tech/barsky-protocol
 ```
 
 ### 手动安装
