@@ -1,0 +1,21 @@
+{
+  "name": "barsky-protocol",
+  "version": "1.0.0",
+  "description": "KGB 间谍 Jack Barsky 的英语学习方法论 — AI 升级版。Leitner 五格间隔重复 + 个人化单词卡组生成 + 口语教练（Coach B）。",
+  "author": {
+    "name": "Amki",
+    "url": "https://github.com/amki-dev"
+  },
+  "license": "MIT",
+  "keywords": [
+    "language-learning",
+    "flashcard",
+    "spaced-repetition",
+    "leitner",
+    "barsky",
+    "english",
+    "vocabulary",
+    "speaking-coach",
+    "claude-code"
+  ]
+}
